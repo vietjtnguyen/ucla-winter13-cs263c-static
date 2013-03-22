@@ -1,0 +1,6 @@
+{
+	"numOfGenerationsBeforeSave": 20,
+	"dynamicEnvironment": false,
+	"randomizeTerrainOnGeneration": true,
+	"evaluationMode": true
+}

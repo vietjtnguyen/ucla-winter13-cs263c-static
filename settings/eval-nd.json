@@ -1,0 +1,7 @@
+{
+	"numOfGenerationsBeforeSave": 20,
+	"dynamicEnvironment": true,
+	"randomizeTerrainOnGeneration": false,
+	"terrainDataPath": "terrain/2013-03-17.json",
+	"evaluationMode": true
+}

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true
+do
+	nodejs cs263c.js $1 `ls -1rt *.json | tail -n 1`
+done
+

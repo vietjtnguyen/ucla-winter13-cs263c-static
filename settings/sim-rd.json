@@ -1,0 +1,5 @@
+{
+	"numOfGenerationsBeforeSave": 20,
+	"dynamicEnvironment": true,
+	"randomizeTerrainOnGeneration": true
+}
